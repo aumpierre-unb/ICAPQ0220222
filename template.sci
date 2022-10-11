@@ -1,6 +1,6 @@
 #Universidade de Brasília
 #ICAPQ – IQD0003
-#Turma 02                        // Ajuste se necessário!!
+#Turma T02                        // Ajuste se necessário!!
 #Prova P2 - 2022/2 – 13/09/2022  // Ajuste se necessário!!
 #Prof. Alexandre Umpierre
 
