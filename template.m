@@ -22,8 +22,8 @@ Instruções:
 6)  Cada questão deve ser entregue em
     um e um único arquivo.
 7)  Cada arquivo deve ser nomeado segundo os exemplos:
-    ICAPQ_02_20220913_P2_Q1_suamatricula.m
-    ICAPQ_02_20220913_P2_Q1_110049081.m
+    ICAPQ_T02_20220913_P2_Q1_suamatricula.m
+    ICAPQ_T02_20220913_P2_Q1_110049081.m
 8)  Arquivos entregues sem extensão ou
     com extensão diferente de .m
     não serão corrigidos.
